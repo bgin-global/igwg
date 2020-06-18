@@ -1,7 +1,7 @@
 Working Group Documents of Governance Working Group (GWG) of BGIN
 -----------------------------------------------------------------
 
-This repository contains documents created by BGIN Governace Group Activities
+This repository contains documents created by BGIN Governace Working Group (GWG) Activities
 
 At this moment we have one documents here:
 - [GWG_TermsOfReference.md](./GWG_TermsOfReference.md) - Terms of Reference for GWG
