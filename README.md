@@ -1,5 +1,7 @@
-Working Group Documents of Governance Working Group (GWG) of BGIN
------------------------------------------------------------------
+Working Group Documents of Internal Governance Working Group (IGWG) of BGIN
+---------------------------------------------------------------------------
+
+(Note some of the links for GWG stays same for now)
 
 This repository contains documents created by BGIN Governace Working Group (GWG) Activities
 
